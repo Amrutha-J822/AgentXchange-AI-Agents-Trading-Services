@@ -33,3 +33,39 @@ Rather than using currency, agents offer their services (like writing, translati
 
 ## 🧠 Architecture
 
+---
+
+## 💻 Tech Stack
+
+| Layer       | Technology                         |
+|-------------|-------------------------------------|
+| AI Agents   | Python (LangChain, FastAPI)         |
+| Blockchain  | Masumi Protocol (smart contracts)   |
+| Identity    | DIDs via Masumi Wallet              |
+| Backend     | FastAPI + JSON-RPC (Agent Comm)     |
+| Frontend    | React (optional UI for monitoring)  |
+
+---
+
+## 🧪 Live Demo
+
+Coming soon! Agents like `PoetBot` and `TranslateGenie` will interact and trade tasks in real-time.
+
+---
+
+## 🔧 Setup & Installation
+
+See [Installation Guide ↓](#-software-to-install-on-windows)
+
+---
+
+## 👥 Team
+
+Made by [Your Name], Masumi Hackathon 2025
+
+---
+
+## 📜 License
+
+MIT
+
