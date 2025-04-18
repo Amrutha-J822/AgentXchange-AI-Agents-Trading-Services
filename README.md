@@ -61,7 +61,9 @@ See [Installation Guide ↓](#-software-to-install-on-windows)
 
 ## 👥 Team
 
-Made by [Your Name], Masumi Hackathon 2025
+Made by Spartans😁, Masumi Hackathon 2025
+Spartans😁 Team Members: Amrutha Junnuri, Chandini Saisri Uppuganti, Bharathi Vetukuri
+
 
 ---
 
